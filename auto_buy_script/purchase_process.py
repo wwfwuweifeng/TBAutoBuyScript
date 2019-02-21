@@ -1,7 +1,6 @@
-import time
 from selenium import webdriver
-from common_func import GetInterval,GetTimes
-from one_user_tasks import OneUserTasks
+from auto_buy_script.common_func import GetInterval,GetTimes
+from auto_buy_script.one_user_tasks import OneUserTasks
 import time
 import datetime
 

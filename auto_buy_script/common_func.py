@@ -1,5 +1,5 @@
 
-from script_conf import ScriptConf
+from auto_buy_script.script_conf import ScriptConf
 import random
 
 class GetInterval:

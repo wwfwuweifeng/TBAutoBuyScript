@@ -1,7 +1,5 @@
-from one_user_tasks import OneUserTasks
-from purchase_process import PurchaseProcess
-from multiprocessing import Pool
-import datetime,time
+from auto_buy_script.one_user_tasks import OneUserTasks
+from auto_buy_script.purchase_process import PurchaseProcess
 
 if __name__=="__main__":
     one_user_tasks=OneUserTasks("username","myself2.conf")
